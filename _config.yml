@@ -1,14 +1,14 @@
-layout_spectrum: 0.8210793677717447
-typography_spectrum: 0.1593138906173408
+layout_spectrum: 0.004982830490916967
+typography_spectrum: 0.8830207807477564
 color:
-  brandStrength: 0.43659224617294967
-  lightness: 0.66186718409881
-  saturation: 0.550278915092349
-  rhythmicContrast: 0.6892069233581424
+  brandStrength: 0.8255151147022843
+  lightness: 0.8472951871808618
+  saturation: 0.8665070170536637
+  rhythmicContrast: 0.24351267446763813
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: MeyerAchnids
